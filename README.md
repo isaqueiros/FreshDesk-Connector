@@ -1,4 +1,9 @@
 # FreshDesk-Connector
-Ticketing System Freshdesk Python script to retrieve data from the system's different objects and start transforming the data using Pandas.
+This code is an initial study of objects and fields from the Freshdesk CRM System, connecting via the system's available API using Python.
+The script performs requests to the 4 main objects below:
+- Tickets
+- Groups
+- Companies
+- Contacts
 
-This piece of code is an initial exploration of objects and fields from the Freshdesk CRM System, connecting via the system's available API using Python.
+Full API documentation is available online via the link: <https://developers.freshdesk.com/api/#introduction>.
